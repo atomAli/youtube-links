@@ -3,6 +3,7 @@ import os
 import subprocess
 import sys
 import datetime
+import urllib.parse
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE, "data")
@@ -126,6 +127,9 @@ def main():
                 entry["height"] = height
                 entry.pop("error", None)
                 refreshed += 1
+                tb = ch.get("tunnel_base")
+                if tb:
+                    entry["tunnel_url"] = tb + urllib.parse.quote(url, safe="")
             elif "url" not in entry:
                 entry["url"] = None
                 entry["format"] = None
