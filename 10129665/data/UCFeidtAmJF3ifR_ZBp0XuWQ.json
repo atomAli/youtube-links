@@ -5,8 +5,30 @@
     "id": "UCFeidtAmJF3ifR_ZBp0XuWQ",
     "max_videos": 10
   },
-  "updated_at": "2026-09-19T15:09:56.047567+00:00",
+  "updated_at": "2026-09-19T19:52:35.460165+00:00",
   "videos": [
+    {
+      "id": "4tGaHvVk3so",
+      "title": "نفر بعدی که با عمارت خداحافظی می‌کنه کیه؟ | عشق ابدی فصل 3 قسمت 60 Eshghe Abadi",
+      "added_at": "2026-09-19T19:52:35.460165+00:00",
+      "webpage": "https://www.youtube.com/watch?v=4tGaHvVk3so",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
+    },
+    {
+      "id": "G5hXURa_9Vk",
+      "title": "عشق ابدی فصل 3 لیست پخش هفته 12 | عشق ابدی - Eshghe Abadi",
+      "added_at": "2026-09-19T19:52:35.460165+00:00",
+      "webpage": "https://www.youtube.com/watch?v=G5hXURa_9Vk",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
+    },
     {
       "id": "g5HSYsWf528",
       "title": "وداع تلخی که خانه عشق رو غرق اشک کرد... | عشق ابدی فصل 3 قسمت 60 Eshghe Abadi",
@@ -16,7 +38,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
     },
     {
       "id": "qK5l0YkRvSA",
@@ -27,7 +49,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
     },
     {
       "id": "wtwjgP4bCIk",
@@ -38,7 +60,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
     },
     {
       "id": "b_aQHm8cVa8",
@@ -49,7 +71,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
     },
     {
       "id": "S7L6lyFGxLY",
@@ -60,7 +82,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
     },
     {
       "id": "fENpZ_Uq2L8",
@@ -71,7 +93,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
     },
     {
       "id": "dNUtxxXu_oc",
@@ -82,7 +104,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
     },
     {
       "id": "dzQvu_j3Dq8",
@@ -93,29 +115,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
-    },
-    {
-      "id": "HR5jlUDFeOU",
-      "title": "پویا، دست از این رفتارای یکی به نعل و یکی به میخ بردار! | عشق ابدی فصل 3 قسمت 59 Eshghe Abadi",
-      "added_at": "2026-09-18T15:35:58.015224+00:00",
-      "webpage": "https://www.youtube.com/watch?v=HR5jlUDFeOU",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
-    },
-    {
-      "id": "u4PDhwH_rPs",
-      "title": "غیبتهای سر ناهار | عشق ابدی فصل 3 قسمت 59 Eshghe Abadi",
-      "added_at": "2026-09-18T15:35:58.015224+00:00",
-      "webpage": "https://www.youtube.com/watch?v=u4PDhwH_rPs",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-09-19T15:09:56.047567+00:00"
+      "refreshed_at": "2026-09-19T19:52:35.460165+00:00"
     }
   ]
 }
