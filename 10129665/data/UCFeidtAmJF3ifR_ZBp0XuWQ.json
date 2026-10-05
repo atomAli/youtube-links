@@ -5,8 +5,30 @@
     "id": "UCFeidtAmJF3ifR_ZBp0XuWQ",
     "max_videos": 10
   },
-  "updated_at": "2026-10-05T13:15:22.335663+00:00",
+  "updated_at": "2026-10-05T23:34:35.510798+00:00",
   "videos": [
+    {
+      "id": "vo329vdoa8Y",
+      "title": "تیزر قسمت 72 فصل 3 عشق ابدی - Eshghe Abadi",
+      "added_at": "2026-10-05T23:34:35.510798+00:00",
+      "webpage": "https://www.youtube.com/watch?v=vo329vdoa8Y",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
+    },
+    {
+      "id": "wr-q1gnnr7U",
+      "title": "عشق ابدی فصل 3 قسمت 71 - Eshghe Abadi",
+      "added_at": "2026-10-05T23:34:35.510798+00:00",
+      "webpage": "https://www.youtube.com/watch?v=wr-q1gnnr7U",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
+    },
     {
       "id": "4k4SQCW3xqg",
       "title": "مهمون خوشتیپ جزیره عشق | Eshghe Abadi - عشق ابدی",
@@ -16,7 +38,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
     },
     {
       "id": "S3iXMEMDPWI",
@@ -27,7 +49,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
     },
     {
       "id": "PkJoGii--OU",
@@ -38,7 +60,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
     },
     {
       "id": "xJxCQ3Fmod0",
@@ -49,7 +71,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
     },
     {
       "id": "OZYJHwR-DQo",
@@ -60,7 +82,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
     },
     {
       "id": "_IaY0SQjaAI",
@@ -71,7 +93,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
     },
     {
       "id": "xiMIWNoZcHc",
@@ -82,7 +104,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
     },
     {
       "id": "RMf3y-jf9D0",
@@ -93,29 +115,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
-    },
-    {
-      "id": "COak8lh8-Jc",
-      "title": "شروع مرحله نیمه‌نهایی چهارم | عشق ابدی فصل 3 قسمت 70 Eshghe Abadi",
-      "added_at": "2026-10-03T10:56:01.431260+00:00",
-      "webpage": "https://www.youtube.com/watch?v=COak8lh8-Jc",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
-    },
-    {
-      "id": "s4bqls6fdVE",
-      "title": "در فینال چهارم چه اتفاقاتی خواهد افتاد!؟ | عشق ابدی فصل 3 قسمت 70 Eshghe Abadi",
-      "added_at": "2026-10-03T10:56:01.431260+00:00",
-      "webpage": "https://www.youtube.com/watch?v=s4bqls6fdVE",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-05T13:15:22.335663+00:00"
+      "refreshed_at": "2026-10-05T23:34:35.510798+00:00"
     }
   ]
 }
