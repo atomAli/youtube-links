@@ -5,8 +5,30 @@
     "id": "UCFeidtAmJF3ifR_ZBp0XuWQ",
     "max_videos": 10
   },
-  "updated_at": "2026-10-12T14:05:49.098627+00:00",
+  "updated_at": "2026-10-13T00:02:13.134001+00:00",
   "videos": [
+    {
+      "id": "NPcBt13i-Pw",
+      "title": "تیزر قسمت 77 فصل 3 عشق ابدی - Eshghe Abadi",
+      "added_at": "2026-10-13T00:02:13.134001+00:00",
+      "webpage": "https://www.youtube.com/watch?v=NPcBt13i-Pw",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
+    },
+    {
+      "id": "28TL7Rk6wUU",
+      "title": "عشق ابدی فصل 3 قسمت 76 - Eshghe Abadi",
+      "added_at": "2026-10-13T00:02:13.134001+00:00",
+      "webpage": "https://www.youtube.com/watch?v=28TL7Rk6wUU",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
+    },
     {
       "id": "xkKXnQJj0oM",
       "title": "عصبی‌ترین چهره‌های این هفته #5 | Eshghe Abadi - عشق ابدی",
@@ -16,7 +38,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
     },
     {
       "id": "SLlk7kcH09I",
@@ -27,7 +49,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
     },
     {
       "id": "zbnt1Bpnmoc",
@@ -38,7 +60,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
     },
     {
       "id": "4zwqgw7C-4M",
@@ -49,7 +71,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
     },
     {
       "id": "92tDta2nfQs",
@@ -60,7 +82,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
     },
     {
       "id": "aL5ksBAwsQk",
@@ -71,7 +93,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
     },
     {
       "id": "y2sFECiHkVw",
@@ -82,7 +104,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
     },
     {
       "id": "d5lAjA1N9Dw",
@@ -93,29 +115,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
-    },
-    {
-      "id": "irvScBtVVnw",
-      "title": "نظرت در مورد ازدواج چیه؟ | عشق ابدی فصل 3 قسمت 75 Eshghe Abadi",
-      "added_at": "2026-10-10T11:43:05.715542+00:00",
-      "webpage": "https://www.youtube.com/watch?v=irvScBtVVnw",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
-    },
-    {
-      "id": "FXFdEms0cVc",
-      "title": "تیزر قسمت 76 فصل 3 عشق ابدی - Eshghe Abadi",
-      "added_at": "2026-10-09T22:06:39.236365+00:00",
-      "webpage": "https://www.youtube.com/watch?v=FXFdEms0cVc",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-12T14:05:49.098627+00:00"
+      "refreshed_at": "2026-10-13T00:02:13.134001+00:00"
     }
   ]
 }
