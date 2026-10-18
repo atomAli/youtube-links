@@ -5,8 +5,30 @@
     "id": "UCFeidtAmJF3ifR_ZBp0XuWQ",
     "max_videos": 10
   },
-  "updated_at": "2026-10-18T10:12:19.172611+00:00",
+  "updated_at": "2026-10-18T15:13:01.327003+00:00",
   "videos": [
+    {
+      "id": "pA1Ll8OmIls",
+      "title": "پرتاب لیوان‌ها و فریادهایی که اوج گرفت!  | Eshghe Abadi - عشق ابدی",
+      "added_at": "2026-10-18T15:13:01.327003+00:00",
+      "webpage": "https://www.youtube.com/watch?v=pA1Ll8OmIls",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
+    },
+    {
+      "id": "mPoAmYryVco",
+      "title": "عصبی‌ترین چهره‌های این هفته #6 | Eshghe Abadi - عشق ابدی",
+      "added_at": "2026-10-18T15:13:01.327003+00:00",
+      "webpage": "https://www.youtube.com/watch?v=mPoAmYryVco",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
+    },
     {
       "id": "c2n6zs_knSQ",
       "title": "حرکت رمانتیک بهادر برای نازنین | عشق ابدی فصل 3 قسمت 80 Eshghe Abadi",
@@ -16,7 +38,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
     },
     {
       "id": "ao2iwotgXLI",
@@ -27,7 +49,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
     },
     {
       "id": "QAodt3J81Vw",
@@ -38,7 +60,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
     },
     {
       "id": "xpjkVa_4_4w",
@@ -49,7 +71,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
     },
     {
       "id": "Psl4-1RP_24",
@@ -60,7 +82,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
     },
     {
       "id": "eS9i8ZLzHN0",
@@ -71,7 +93,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
     },
     {
       "id": "u9J2GMPLIQw",
@@ -82,7 +104,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
     },
     {
       "id": "Ws4HCzEKGnY",
@@ -93,29 +115,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
-    },
-    {
-      "id": "NcqOENigOAE",
-      "title": "عشق ابدی فصل 3 قسمت 80 - Eshghe Abadi",
-      "added_at": "2026-10-16T20:23:43.808429+00:00",
-      "webpage": "https://www.youtube.com/watch?v=NcqOENigOAE",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
-    },
-    {
-      "id": "toeJErerZtA",
-      "title": "شروع درگیری‌ها، آماده دفاع باشید! | عشق ابدی فصل 3 قسمت 79 Eshghe Abadi",
-      "added_at": "2026-10-16T15:54:20.214317+00:00",
-      "webpage": "https://www.youtube.com/watch?v=toeJErerZtA",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-18T10:12:19.172611+00:00"
+      "refreshed_at": "2026-10-18T15:13:01.327003+00:00"
     }
   ]
 }
