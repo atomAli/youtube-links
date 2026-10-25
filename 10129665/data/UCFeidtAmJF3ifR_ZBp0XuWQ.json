@@ -5,8 +5,30 @@
     "id": "UCFeidtAmJF3ifR_ZBp0XuWQ",
     "max_videos": 10
   },
-  "updated_at": "2026-10-25T10:31:10.396450+00:00",
+  "updated_at": "2026-10-25T15:23:29.561835+00:00",
   "videos": [
+    {
+      "id": "rVCdurLPpRE",
+      "title": "عصبی‌ترین چهره‌های این هفته #7 | Eshghe Abadi - عشق ابدی",
+      "added_at": "2026-10-25T15:23:29.561835+00:00",
+      "webpage": "https://www.youtube.com/watch?v=rVCdurLPpRE",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
+    },
+    {
+      "id": "RvsfBDYHqvU",
+      "title": "وقت خداحافظی در شب حذف فینال چهارم😥 | Eshghe Abadi - عشق ابدی",
+      "added_at": "2026-10-25T15:23:29.561835+00:00",
+      "webpage": "https://www.youtube.com/watch?v=RvsfBDYHqvU",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
+    },
     {
       "id": "_OYxb7pLMBk",
       "title": "اینجا به هیچ‌کس اعتماد نکن | عشق ابدی فصل 3 قسمت 85 Eshghe Abadi",
@@ -16,7 +38,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
     },
     {
       "id": "OL-2bHo5AUM",
@@ -27,7 +49,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
     },
     {
       "id": "0-op55Mwl7o",
@@ -38,7 +60,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
     },
     {
       "id": "o_Q17Zx1djE",
@@ -49,7 +71,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
     },
     {
       "id": "uHo59OoBGsQ",
@@ -60,7 +82,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
     },
     {
       "id": "Y5stkHJsSkM",
@@ -71,7 +93,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
     },
     {
       "id": "prJa5Ns4xHY",
@@ -82,7 +104,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
     },
     {
       "id": "kaFAD1PEybo",
@@ -93,29 +115,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
-    },
-    {
-      "id": "jvGpithrnC4",
-      "title": "عشق ابدی فصل 3 قسمت 85 - Eshghe Abadi",
-      "added_at": "2026-10-23T20:53:00.694350+00:00",
-      "webpage": "https://www.youtube.com/watch?v=jvGpithrnC4",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
-    },
-    {
-      "id": "aYeAK_4-4XA",
-      "title": "همه سراپا گوش به حرف‌های مهمان نشستند | عشق ابدی فصل 3 قسمت 84 Eshghe Abadi",
-      "added_at": "2026-10-23T16:15:24.340601+00:00",
-      "webpage": "https://www.youtube.com/watch?v=aYeAK_4-4XA",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-25T10:31:10.396450+00:00"
+      "refreshed_at": "2026-10-25T15:23:29.561835+00:00"
     }
   ]
 }
