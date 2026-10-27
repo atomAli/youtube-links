@@ -5,8 +5,30 @@
     "id": "UCFeidtAmJF3ifR_ZBp0XuWQ",
     "max_videos": 10
   },
-  "updated_at": "2026-10-27T17:11:28.525746+00:00",
+  "updated_at": "2026-10-27T21:41:32.894039+00:00",
   "videos": [
+    {
+      "id": "vmqkLwdYV3Y",
+      "title": "تیزر قسمت 88 فصل 3 عشق ابدی - Eshghe Abadi",
+      "added_at": "2026-10-27T21:41:32.894039+00:00",
+      "webpage": "https://www.youtube.com/watch?v=vmqkLwdYV3Y",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
+    },
+    {
+      "id": "d1azJYyIxLE",
+      "title": "عشق ابدی فصل 3 قسمت 87 - Eshghe Abadi",
+      "added_at": "2026-10-27T21:41:32.894039+00:00",
+      "webpage": "https://www.youtube.com/watch?v=d1azJYyIxLE",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
+    },
     {
       "id": "P6uoEiL4yqs",
       "title": "یعنی به آخر یه رابطه رسیدیم؟ | عشق ابدی فصل 3 قسمت 86 Eshghe Abadi",
@@ -16,7 +38,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
     },
     {
       "id": "GicGh5mQk5g",
@@ -27,7 +49,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
     },
     {
       "id": "jEdRLDsgyhg",
@@ -38,7 +60,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
     },
     {
       "id": "3bxTYX5vksQ",
@@ -49,7 +71,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
     },
     {
       "id": "1KaoG-dCQss",
@@ -60,7 +82,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
     },
     {
       "id": "A_jzjWXZa6Q",
@@ -71,7 +93,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
     },
     {
       "id": "ftParUFBNvE",
@@ -82,7 +104,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
     },
     {
       "id": "WAWkrTCkRSU",
@@ -93,29 +115,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
-    },
-    {
-      "id": "uMVk-WM1lT8",
-      "title": "ما برگشتیم...😉 | Eshghe Abadi - عشق ابدی",
-      "added_at": "2026-10-26T22:10:48.511927+00:00",
-      "webpage": "https://www.youtube.com/watch?v=uMVk-WM1lT8",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
-    },
-    {
-      "id": "rVCdurLPpRE",
-      "title": "عصبی‌ترین چهره‌های این هفته #7 | Eshghe Abadi - عشق ابدی",
-      "added_at": "2026-10-25T15:23:29.561835+00:00",
-      "webpage": "https://www.youtube.com/watch?v=rVCdurLPpRE",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-10-27T17:11:28.525746+00:00"
+      "refreshed_at": "2026-10-27T21:41:32.894039+00:00"
     }
   ]
 }
