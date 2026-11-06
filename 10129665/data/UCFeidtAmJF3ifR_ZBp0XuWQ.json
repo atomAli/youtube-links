@@ -5,8 +5,30 @@
     "id": "UCFeidtAmJF3ifR_ZBp0XuWQ",
     "max_videos": 10
   },
-  "updated_at": "2026-11-06T13:34:38.445550+00:00",
+  "updated_at": "2026-11-06T22:38:20.962397+00:00",
   "videos": [
+    {
+      "id": "oOW_1zlFCIk",
+      "title": "تیزر قسمت 96 فصل 3 عشق ابدی - Eshghe Abadi",
+      "added_at": "2026-11-06T22:38:20.962397+00:00",
+      "webpage": "https://www.youtube.com/watch?v=oOW_1zlFCIk",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
+    },
+    {
+      "id": "Oj9zMA5AYng",
+      "title": "عشق ابدی فصل 3 قسمت 95 - Eshghe Abadi",
+      "added_at": "2026-11-06T22:38:20.962397+00:00",
+      "webpage": "https://www.youtube.com/watch?v=Oj9zMA5AYng",
+      "url": null,
+      "format": null,
+      "height": null,
+      "error": "could not generate single-file link",
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
+    },
     {
       "id": "VXDJR6sacMA",
       "title": "هیجان و استرسِ روزِ حذف | عشق ابدی فصل 3 قسمت 94 Eshghe Abadi",
@@ -16,7 +38,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
     },
     {
       "id": "Iw8uNwqAHX8",
@@ -27,7 +49,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
     },
     {
       "id": "wYtSnDvNXp0",
@@ -38,7 +60,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
     },
     {
       "id": "RzSwesM2y00",
@@ -49,7 +71,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
     },
     {
       "id": "a1L1E4XNeww",
@@ -60,7 +82,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
     },
     {
       "id": "0aIe3mQbEtE",
@@ -71,7 +93,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
     },
     {
       "id": "6B50upfgs54",
@@ -82,7 +104,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
     },
     {
       "id": "gamo2IQpOpY",
@@ -93,29 +115,7 @@
       "format": null,
       "height": null,
       "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
-    },
-    {
-      "id": "XuAJNzlcMMw",
-      "title": "عشق یعنی زندگی تو آغوش تو... | عشق ابدی فصل 3 قسمت 93 Eshghe Abadi",
-      "added_at": "2026-11-05T13:50:13.321018+00:00",
-      "webpage": "https://www.youtube.com/watch?v=XuAJNzlcMMw",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
-    },
-    {
-      "id": "PPdBpCfUVvg",
-      "title": "خوشحالی همه برای ساناز و همایون... | عشق ابدی فصل 3 قسمت 93 Eshghe Abadi",
-      "added_at": "2026-11-05T13:50:13.321018+00:00",
-      "webpage": "https://www.youtube.com/watch?v=PPdBpCfUVvg",
-      "url": null,
-      "format": null,
-      "height": null,
-      "error": "could not generate single-file link",
-      "refreshed_at": "2026-11-06T13:34:38.445550+00:00"
+      "refreshed_at": "2026-11-06T22:38:20.962397+00:00"
     }
   ]
 }
